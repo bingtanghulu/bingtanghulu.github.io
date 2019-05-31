@@ -7,7 +7,7 @@
 
 # Site settings
 title: Atom
-brief-intro: Back-end Dev Engineer
+brief-intro: 经验, 技术,心得, 总结
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bingtanghulu.github.io" # the base hostname & protocol for your site
 
@@ -18,25 +18,25 @@ twitter_username: zhangkaixuan
 facebook_username: zhangkaixuan
 github_username:  bingtanghulu
 email: zhangkaixuan3434@163.com
-weibo_username: 3115521wh
+weibo_username: 冰糖葫芦帅旋
 zhihu_username: zhangkaixuan
 linkedIn_username: zhangkaixuan
 dribbble_username:
 
-description_footer: 人生的旅途需要记录点滴！
+description_footer: 千里之行，始于足下
 
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
 duoshuo_shortname: #hygblog
-disqus_shortname: zhangkaixuan
+# disqus_shortname: zhangkaixuan
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: cf8506e0ef223e57ff6239944e5d46a4
-google_analytics_id: UA-72449510-4 # google 分析追踪id
+# baidu_tongji_id: cf8506e0ef223e57ff6239944e5d46a4
+# google_analytics_id: UA-72449510-4 # google 分析追踪id
 
 # Build settings
 markdown: kramdown
