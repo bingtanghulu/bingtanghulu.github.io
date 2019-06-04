@@ -41,6 +41,11 @@ duoshuo_shortname: #hygblog
 # Build settings
 markdown: kramdown
 
+plugins:
+- jekyll-textile-converter
+
+textile_ext: "textile,txtl,tl"
+
 kramdown:
   input: GFM
   syntax_highlighter: rouge
