@@ -10,6 +10,7 @@ type: page
 {:toc}
 
 ## 好文章收藏
+
 - [从部落到帝国 - 后端技术栈的演进及开源实践 v 0.51](https://coderxing.gitbooks.io/architecture-evolution/content/)
 - [go map](https://mp.weixin.qq.com/s/vZcN0k70I-FS1gFUZi4Hxg)
 - [spring boot 读取配置文件](https://blog.csdn.net/wohaqiyi/article/details/79940380)
@@ -18,8 +19,8 @@ type: page
 - [2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT](https://github.com/0voice/from_coder_to_expert)
 
 
+## tool
 ### Atom 中常用插件
-
 * auto-beautify
 * autoprefixer
 * block-comment
