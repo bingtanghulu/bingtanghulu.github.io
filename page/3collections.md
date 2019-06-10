@@ -10,105 +10,13 @@ type: page
 {:toc}
 
 ## 好文章收藏
+- [从部落到帝国 - 后端技术栈的演进及开源实践 v 0.51](https://coderxing.gitbooks.io/architecture-evolution/content/)
+- [go map](https://mp.weixin.qq.com/s/vZcN0k70I-FS1gFUZi4Hxg)
+- [spring boot 读取配置文件](https://blog.csdn.net/wohaqiyi/article/details/79940380)
+- [go path](https://www.jianshu.com/p/4e699ff478a5)
+- [视频资料](http://www.atguigu.com/html5_video.shtml#html)
+- [2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT](https://github.com/0voice/from_coder_to_expert)
 
-[从部落到帝国 - 后端技术栈的演进及开源实践 v 0.51](https://coderxing.gitbooks.io/architecture-evolution/content/)
-[go map](https://mp.weixin.qq.com/s/vZcN0k70I-FS1gFUZi4Hxg)
-[spring boot 读取配置文件](https://blog.csdn.net/wohaqiyi/article/details/79940380)
-[go path](https://www.jianshu.com/p/4e699ff478a5)
-[视频资料](http://www.atguigu.com/html5_video.shtml#html)
-[2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT](https://github.com/0voice/from_coder_to_expert)
-
-## 工具
-- [tiny png](https://tinypng.com/)
-
-    用于压缩 png 或 jpg 的在线工具
-
-* [Unix 时间戳 Unix timestamp](http://tool.chinaz.com/Tools/unixtime.aspx)
-
-- [在线正则表达式匹配](https://regex101.com/)
-    - 这个功能更强大一点，能清楚的区分出贪婪和懒惰正则。
-- [http://regexr.com/](http://regexr.com/)
-- [google fonts](https://fonts.google.com/)
-  - [Google Fonts 加速代理](https://fengmk2.com/blog/2016/google-fonts-mirror)
-
-## 编程语言
-
-### JavaScript
-
-* [JavaScript 标准参考教程（alpha） -阮一峰](http://javascript.ruanyifeng.com/)
-
-* [JavaScript Promise迷你书 -azu](http://liubin.org/promises-book/)
-
-* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
-
-* [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
-
-    前端发展很快，现代浏览器原生 API 已经足够好用。我们并不需要为了操作 DOM、Event 等再学习一下 jQuery 的 API。同时由于 React、Angular、Vue 等框架的流行，直接操作 DOM 不再是好的模式，jQuery 使用场景大大减少。本项目总结了大部分 jQuery API 替代的方法，暂时只支持 IE10+ 以上浏览器。
-
-- [YOU MIGHT NOT NEED JQUERY PLUGINS](http://youmightnotneedjqueryplugins.com/)
-
-* [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
-
-* [JavaScript 设计模式 系列 AlloyTeam](http://www.alloyteam.com/2012/10/common-javascript-design-patterns/)
-
-### ES2015
-
-- [https://tc39.github.io/ecma262/](https://tc39.github.io/ecma262/)
-* [http://www.ecma-international.org/ecma-262/6.0/](http://www.ecma-international.org/ecma-262/6.0/)
-
-    ES2015规范
-
-- [http://es6katas.org/](http://es6katas.org/)
-
-    Learn ES6 by doing it. Fix failing tests. Keep all learnings.
-
-* [30分钟掌握ES6/ES2015核心内容（上）](http://segmentfault.com/a/1190000004365693)
-
-* [30分钟掌握ES6/ES2015核心内容（下）](http://segmentfault.com/a/1190000004368132)
-
-* [《ECMAScript 6入门》 -阮一峰](https://github.com/ruanyf/es6tutorial)
-
-* [EcmaScript6 全规范（含node） -ouvens](https://github.com/ouvens/es6-code-style-guide)
-
-
-## 框架&脚手架
-
-
-
-
-### React
-
-* [深入理解 React -Thinking in React 中文版](http://reactjs.cn/react/docs/thinking-in-react.html)
-* [Thinking in React](http://facebook.github.io/react/docs/thinking-in-react.html)
-
-### AngularJS
-
-- [学习AngularJS 1.x -Harry<harry@andtoo.net>](https://hairui219.gitbooks.io/learning_angular/content/zh/index.html)
-
-    本书是作者 [Harry](https://github.com/hairui219) 在学习和应用AngularJS 1.x 的过程中的资料梳理。希望能对大家学习AngularJS有一定帮助……
-
-* [AngularJS api 官网](https://docs.angularjs.org/api)
-
-* [AngularJS入门教程——AngularJS中文社区提供](https://github.com/zensh/AngularjsTutorial_cn)
-
-* [AngularJS 教程 \| 菜鸟教程](http://www.runoob.com/angularjs/angularjs-tutorial.html)
-
-    类似 w3school 的入门 AngularJS 教程。
-
-### 测试
-
-* [测试框架 Mocha 实例教程 阮一峰](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
-
-## 类库与插件
-
-
-## 模块化
-
-
-## other articles
-
-
-## 编辑器
 
 ### Atom 中常用插件
 
