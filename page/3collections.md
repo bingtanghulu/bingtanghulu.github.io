@@ -9,6 +9,15 @@ type: page
 * content
 {:toc}
 
+## 好文章收藏
+
+[从部落到帝国 - 后端技术栈的演进及开源实践 v 0.51](https://coderxing.gitbooks.io/architecture-evolution/content/)
+[go map](https://mp.weixin.qq.com/s/vZcN0k70I-FS1gFUZi4Hxg)
+[spring boot 读取配置文件](https://blog.csdn.net/wohaqiyi/article/details/79940380)
+[go path](https://www.jianshu.com/p/4e699ff478a5)
+[视频资料](http://www.atguigu.com/html5_video.shtml#html)
+[2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT](https://github.com/0voice/from_coder_to_expert)
+
 ## 工具
 - [tiny png](https://tinypng.com/)
 
