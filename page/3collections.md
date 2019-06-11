@@ -17,8 +17,8 @@ type: page
 - [go path](https://www.jianshu.com/p/4e699ff478a5)
 - [视频资料](http://www.atguigu.com/html5_video.shtml#html)
 - [2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT](https://github.com/0voice/from_coder_to_expert)
-
-
+- [docker](https://yeasy.gitbooks.io/docker_practice/content/#%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F)
+- [视频资料](http://www.zhenganwen.top/posts/fc947615/)
 ## tool
 ### Atom 中常用插件
 * auto-beautify
