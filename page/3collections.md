@@ -9,15 +9,18 @@ type: page
 * content
 {:toc}
 
+## 公众号文章目录
+- [码农有道](https://mp.weixin.qq.com/s/ZqLPc2ja72qyfV2n-0mYSA)
+- [码农翻身](https://mp.weixin.qq.com/s/1OSxdYuKByCwVTe-8FgrFA)
+- [纯洁的微笑](https://mp.weixin.qq.com/s/GTBH1aEMPcBlYido78OTAw)
+- [Hollis](https://mp.weixin.qq.com/s/0UWP0r9ynIBPribM8t83dQ)
+- [架构师之路](https://mp.weixin.qq.com/s/V1hGa6D9aGrP6PiCWEmc0w)
 ## 好文章收藏
 
 - [从部落到帝国 - 后端技术栈的演进及开源实践 v 0.51](https://coderxing.gitbooks.io/architecture-evolution/content/)
-- [go map](https://mp.weixin.qq.com/s/vZcN0k70I-FS1gFUZi4Hxg)
-- [spring boot 读取配置文件](https://blog.csdn.net/wohaqiyi/article/details/79940380)
-- [go path](https://www.jianshu.com/p/4e699ff478a5)
 - [视频资料](http://www.atguigu.com/html5_video.shtml#html)
 - [2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT](https://github.com/0voice/from_coder_to_expert)
-- [docker](https://yeasy.gitbooks.io/docker_practice/content/#%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F)
+- [docker](https://yeasy.gitbooks.io/docker_practice/content/)
 - [视频资料](http://www.zhenganwen.top/posts/fc947615/)
 ## tool
 ### Atom 中常用插件
