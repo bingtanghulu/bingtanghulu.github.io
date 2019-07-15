@@ -16,12 +16,12 @@ type: page
 - [Hollis](https://mp.weixin.qq.com/s/0UWP0r9ynIBPribM8t83dQ)
 - [架构师之路](https://mp.weixin.qq.com/s/V1hGa6D9aGrP6PiCWEmc0w)
 ## 好文章收藏
-
 - [从部落到帝国 - 后端技术栈的演进及开源实践 v 0.51](https://coderxing.gitbooks.io/architecture-evolution/content/)
 - [视频资料](http://www.atguigu.com/html5_video.shtml#html)
 - [2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT](https://github.com/0voice/from_coder_to_expert)
 - [docker](https://yeasy.gitbooks.io/docker_practice/content/)
 - [视频资料](http://www.zhenganwen.top/posts/fc947615/)
+- [ 互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java?utm_source=gold_browser_extension)
 ## tool
 ### Atom 中常用插件
 * auto-beautify
