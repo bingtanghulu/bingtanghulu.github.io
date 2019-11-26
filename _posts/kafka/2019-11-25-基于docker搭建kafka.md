@@ -2,7 +2,8 @@
 layout: post
 title:  "docker 搭建kafaka"
 date:   2019-11-25 21:06:48 +0800
-categories: kafka docker
+categories: kafka
+tags: kafka docker
 excerpt: 基于docker搭建kafka环境
 ---
 * content
