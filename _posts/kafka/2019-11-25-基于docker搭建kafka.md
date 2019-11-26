@@ -6,6 +6,7 @@ categories: kafka docker
 excerpt: 基于docker搭建kafka环境
 ---
 * content
+{:toc}
 #### 搭建步骤
 #####1. 镜像下载 zk 和 kafka
 ```bash
