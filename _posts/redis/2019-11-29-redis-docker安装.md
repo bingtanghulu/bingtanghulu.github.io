@@ -51,3 +51,8 @@ docker pull redis
 ```bash
 docker run -p 6379:6379 -d redis:latest redis-server
 ```
+
+#### 4.进入容器
+```bash
+docker  exec -it myredis  redis-cli
+```
